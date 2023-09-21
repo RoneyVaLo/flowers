@@ -1,0 +1,31 @@
+.text-container {
+    font-family: cursive, fantasy, 'Times New Roman', serif;
+    
+    width: 100%;
+    padding: 1em;
+    text-align: center;
+    position: fixed;
+    z-index: 100000;
+    top: 0;
+    left: 0;
+    color: #fff;
+
+    /* animation: scale-up-ver-top .4s cubic-bezier(.39, .575, .565, 1.000) both */
+
+}
+
+h1 {
+    font-size: 24px;
+    color: #e24f5f;
+    margin: 0;
+}
+
+p {
+    font-size: 16px;
+    color: #dddddd;
+    margin-top: 4px;
+}
+
+h2 {
+    font-size: 20px;
+}
