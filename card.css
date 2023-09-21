@@ -241,7 +241,7 @@ body {
     height: 16vmin;
     /* background-image: linear-gradient(to bottom, #ffa085, #fa7373, #1a233a 99%); */
     background-image: linear-gradient(to bottom, #ffff85, #ffff73, #ffff3a 99%);
-
+    border: 1px solid #363636;
     clip-path: ellipse(50% 50% at 50% 50%);
     transform-origin: center bottom;
     animation: open-flower 2s 1s backwards;
