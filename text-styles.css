@@ -9,23 +9,20 @@
     top: 0;
     left: 0;
     color: #fff;
-
-    /* animation: scale-up-ver-top .4s cubic-bezier(.39, .575, .565, 1.000) both */
-
 }
 
 h1 {
-    font-size: 24px;
+    font-size: 1.5em;
     color: #e24f5f;
     margin: 0;
 }
 
 p {
-    font-size: 16px;
+    font-size: 1em;
     color: #dddddd;
     margin-top: 4px;
 }
 
 h2 {
-    font-size: 20px;
+    font-size: 1.25em;
 }
